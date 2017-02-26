@@ -1,0 +1,5 @@
+Hi, and welcome to Tank Game:
+This is a two player online game.  You both must be on the same network in order to play.  Here's how to set it up...
+1) The first person presses the host button.  Their ip address with be printed in console.
+2) The second person presses the join button.  They will then have to type in the host's ip.
+3) Have fun :)
